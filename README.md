@@ -30,5 +30,5 @@
 
 <div style="display: flex; width: 100%; flex-wrap:wrap; gap:1rem; align-items:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyalesss&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hyalesss&show_icons=true&theme=material-palenight" alt="Aless's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hyalesss&show_icons=true&theme=material-palenight" alt="Ersan's GitHub stats">
 </div>
