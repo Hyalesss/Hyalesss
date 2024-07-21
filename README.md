@@ -28,7 +28,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex; width: 100%; flex-wrap:wrap; gap:1rem; align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyalesss&layout=compact&card_width=445px&theme=material-palenight" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hyalesss&show_icons=true&theme=material-palenight" alt="Ersan's GitHub stats">
-</div>
